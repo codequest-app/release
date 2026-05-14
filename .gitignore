@@ -1,0 +1,12 @@
+# Data
+data/
+
+# Runtime (auto-downloaded on first launch)
+runtime/
+**/node_modules/better-sqlite3/build/Release/better_sqlite3.node
+
+# Env
+.env
+
+# OS
+.DS_Store
